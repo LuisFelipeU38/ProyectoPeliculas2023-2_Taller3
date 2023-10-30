@@ -28,6 +28,7 @@ SECRET_KEY = '2hl5684eyz&6jd+3-rx=vg8enjb+d=f06p^lt^z%%nel1qds_q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+# Host google cloud.
 ALLOWED_HOSTS = ['35.239.223.116']
 
 
